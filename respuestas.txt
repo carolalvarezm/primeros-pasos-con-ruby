@@ -5,3 +5,5 @@ Respuestas de Primeros Pasos en Ruby
 ¿Cuáles son locales y cuáles remotas?
  Tenemos la rama doc y la rama master que son locales,
  y la rama ghp04/master que es remota.	
+42-Indique dónde se encuentra el HEAD
+En este momento apunta a la rama doc
