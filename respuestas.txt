@@ -13,3 +13,6 @@ Se encuentran apuntando al commit 4c8a911 "Grafo con Hello World en Ruby añadid
 RVM es el gestor de versiones de Ruby
 69-Cuáles son las diferencias entre la ejecución del programa"Hola Mundo"con el intérprete de Ruby(ruby helloWorld.rb) y el intérprete interactivo del ejercicio anterior?
 La diferencia está en que en el intérprete irb nos devuelve el valor de lo último evaluado y con ruby solo nos muestra por pantalla el "Hola mundo"
+76-¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete interactivo y con pry?
+La diferencia está en que en el intérprete irb nos devuelve el valor de lo último evaluado y con pry solo nos muestra por pantalla el "Hola mundo"
+
