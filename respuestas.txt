@@ -1,1 +1,7 @@
 Respuestas de Primeros Pasos en Ruby
+
+31-¿Cuántas ramas hay?
+ Hay 3 ramas en este momento.
+¿Cuáles son locales y cuáles remotas?
+ Tenemos la rama doc y la rama master que son locales,
+ y la rama ghp04/master que es remota.	
