@@ -7,3 +7,5 @@ Respuestas de Primeros Pasos en Ruby
  y la rama ghp04/master que es remota.	
 42-Indique dónde se encuentra el HEAD
 En este momento apunta a la rama doc
+49-Indique dónde se encuentran las ramas doc y master
+Se encuentran apuntando al commit 4c8a911 "Grafo con Hello World en Ruby añadido"
