@@ -9,3 +9,6 @@ Respuestas de Primeros Pasos en Ruby
 En este momento apunta a la rama doc
 49-Indique dónde se encuentran las ramas doc y master
 Se encuentran apuntando al commit 4c8a911 "Grafo con Hello World en Ruby añadido"
+62-¿Qué es RVM?
+RVM es el gestor de versiones de Ruby
+
